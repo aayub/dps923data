@@ -1,0 +1,17 @@
+{
+  "student": "Aayushi Baral",
+  "version": "1.0.0",
+  "timestamp": "2020-01-25T21:01:25+0000",
+  "count": 9,
+  "data": [
+    {"id": 1, "courseCode": "BTP305", "courseName": "Object Oriented Software Development Using C++"},
+    {"id": 2, "courseCode": "BTD310", "courseName": "SQL Database Design Using Oracle"},
+    {"id": 3, "courseCode": "BTI325", "courseName": "Web Programming Tools and Framework"},
+    {"id": 4, "courseCode": "BTS330", "courseName": "Business Requirements Analysis Using OO Models"},
+    {"id": 5, "courseCode": "BTS430", "courseName": "Systems Analysis and Design Using UML"},
+    {"id": 6, "courseCode": "BTI425", "courseName": "Data Communications Programming"},
+    {"id": 7, "courseCode": "BTP400", "courseName": "Object-Oriented Software Development II - Java"},
+    {"id": 8, "courseCode": "DPS923", "courseName": "Mobile App Development - IOS"},
+    {"id": 9, "courseCode": "BTN415", "courseName": "Data Communications Programming"}
+  ]
+}
